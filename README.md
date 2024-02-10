@@ -1,9 +1,9 @@
 # Jellyfin Event Log
 
 ## Requirements:
-git clone ''
-cd jellyfin_event_log
-pip install -r requirements.txt
+- git clone https://github.com/Sean-Brooks/jellyfin_event_log.git
+- cd jellyfin_event_log
+- pip install -r requirements.txt
 
 ## API Token:
 Login to Jellyfin > Dashboard > Advanced > Api Keys > create key > replace value of API_TOKEN
