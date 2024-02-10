@@ -1,4 +1,4 @@
-# jellyfin_event_log
+# Jellyfin Event Log
 
 pip install -r requirements.txt
 
